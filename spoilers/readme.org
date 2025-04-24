@@ -1,0 +1,3 @@
+#+title: The contents of this directory best kept for DM's eyes only until play is active
+
+~rooms.pdf~ should stay DM's eyes only for the length of the game.
